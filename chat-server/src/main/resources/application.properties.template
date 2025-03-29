@@ -1,0 +1,6 @@
+server.port=8080
+spring.main.banner-mode=off
+
+redis.host=your-redis-host
+redis.port=your-redis-port
+redis.password=your-redis-password
